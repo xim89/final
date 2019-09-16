@@ -1,0 +1,102 @@
+	
+	 <style>
+
+	    header {
+	font-style: normal; 
+	font-family: 'Monsieur La Doulaise', cursive;
+	color:#000000;
+	text-align: center;
+	font-size: 62px;
+	font-weight: lighter;
+	 
+	}
+		h1  {
+			font-style: normal; 
+			font-family: 'Monsieur La Doulaise', cursive;
+			color:#000000;
+			text-align: center;
+			font-size: 62px;
+			font-weight: lighter;
+
+	}
+		h2  {
+	font-style: normal; 
+	font-family: 'Monsieur La Doulaise', cursive;
+	color:#000000;
+	text-align: center;
+	font-size: 62px;
+	font-weight: lighter;
+	}
+	h3  {
+	font-style: normal; 
+	font-family: 'Monsieur La Doulaise', cursive;
+	color:#000000;
+	text-align: center;
+	font-size: 24px;
+	font-weight: lighter;
+	}
+	h5  {
+	font-style: normal; 
+	font-family: 'Monsieur La Doulaise', cursive;
+	color:#000000;
+	text-align: center;
+	font-size: 24px;
+	font-weight: lighter;
+	}
+		p  {
+	font-style: normal;
+	color: #000000;
+	letter-spacing: 1px;
+	line-height: 15px;
+	font-size: 12px;
+	font-weight: lighter;
+	}
+	body {
+background-image: url(fondhead.jpg);
+	}
+	
+	}
+	ul li {
+			font-style: normal; 
+			font-family: 'Lexend Deca', sans-serif;
+			color:#000000;
+			text-align: left;
+			font-size: 22px;
+			font-weight: lighter;
+	
+
+	}
+			#menu1 {
+			background-image: url(fondomenu.png);
+			font-style: normal; 
+			font-family: 'Lexend Deca', sans-serif;
+			color:#FFFFFF;
+			font-size: 16px;
+			font-weight: lighter;
+			text-align: center
+	
+
+	}
+
+			#menu2 {
+			background-image: url(fondomenu.png);
+			font-style: normal; 
+			font-family: 'Lexend Deca', sans-serif;
+			color:#FFFFFF;
+			text-align: center;
+			font-size: 16px;
+			font-weight: lighter;
+	
+
+	}
+		a {
+    		color:  #FFFFFF; 
+		}
+		a:hover {
+    		color:  #D50963; 
+		}
+		a:active {
+    		color:  #9E0146; 
+
+
+	</style>
